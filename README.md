@@ -1,4 +1,3 @@
-Aqui tens um exemplo de **README.md** simples para o teu projeto, com apenas a bandeira de Portugal 🇵🇹:
 
 ````markdown
 # Vite + Three.js 🇵🇹
